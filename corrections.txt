@@ -1,0 +1,133 @@
+caption on email settings should be save Eamil Settings
+Logo should full image
+Caption on edit forms should be edit not save
+
+Retailer Contact Details {
+	contact name:
+	contact
+	position
+	location
+}
+
+Retailer Company Name Instead of Retailer Name.
+
+category name restriction remove
+Errors To reflect teh error Field
+Product Description Read more
+Screen Refresh
+Category Name On the same line
+Display Banners And Products  
+Show Full Image
+
+Show Retailer Placed For
+
+Remove Star On Non Mandatory fields
+minimum Amount Should Come Automatically On Price
+Notify Retailer On salesman Place Orders
+Push Notification For Salespeople
+
+Pick GPS Only For GPS
+Push Notification Reports
+
+#
+#
+        #########################
+          System Changes May 19:
+        #########################
+
+Every amount or price should be comma separated and to 2 decimal places
+Show Expiry date On Subscription Report For specific Subs
+Show Only Active Subscriptions In SubsCription Reports.... Add Option to Expand On Each Distributor Subscriptions
+Use name instead of email for logs
+Capture logs for logins and logouts
+Pick Part Of the image to Show As Profile Photo
+Use A square On Logo Images
+Add Brief_Description Field On Product
+Notify Retailers Based On Locations
+Add(Remove Photo) Option On Profile Details
+Show Order Remarks On Web App
+Add Dispatch Qty And Total Qty(UnEditable)
+Export And Import  Price Lists With Applicable Date (Excel Sheets)
+
+
+                       #########################
+                            Mobile Corrections May 19 2021
+                       #########################
+Notification Click Not Redirecting to specific Component When App is Closed And not in memory
+Show Price Slabs
+On All Orders Show Dispatched Orders qty And Remaining Qty
+Show Notes Below The Order
+Show Current Retailer When Changing Retailer
+Salesman Add Offer On Cart Error
+Show Free Qty on Order Offers
+Onclick Not Working Mobile Menu
+Order Placed On Web With Offer Not Showing the free qty
+
+
+      #########
+
+      #########
+Add Forgot Password Option On Mobile Screen
+Edit Distributor Not Working
+Use Inactive And Active Instead of "state of operation
+Option To Salesmen Or Retailers
+Color Variation On Ordering
+Reflect The Change Of Page on mobile App When We Press Back Button
+
+Application
+"
+
+
+##################################################
+Project Corrections May 28 2021
+##################################################
+
+                             Mobile Changes
+                      --------------------------
+            1.Remove Easy Pay  On Intro Screen
+            2.Resize According to screen
+            3.Add Free Qty On Order Details
+            4.Show Subcategories On Parent Categories
+            5.Update Distributor Details
+            6.Whatsapp And Call On Same Row
+            7.Salesman Create Retailer(phase 2)
+            8.Crash On Click Offer
+            9.On Re Order Redirect To Cart
+            10.Gaps On Mobile UI
+            11.Name below offers and Cats
+            12.CALL RETAILER,WHATSAPP RETAILER
+
+
+                     Web Changes
+                     -----------
+            1.Login Details Instead Of Loin Details
+            2.Company Name as label on Add Distributor
+            3.Add Contact Details On Distributor
+            4.Make A nice email Template
+            5.Colon after Password In Email
+            6.Copyright: NetBot Solutions Limited
+            7.Edit Distributor Error
+            8.Email Head NetBot
+            9.Interchange second last and previous welcome texts
+            7.Remove Bio Graph Label On Dist Settings
+            8.Caption Label On TestEmail In Email Settings Should be Test Email
+            9.Caption Labels Is A mess:
+                 1.Status On Settings 
+                 2:"250chars Max" On Brief Description
+                 3..Add Compound Rate..
+
+            10.Unit Names Multiple Times
+            11.Sort Units Alphabetically
+            12.Narrow Down Products(On Category) in Price List
+            13.Remove Hysteric On Non Mandatory fields
+            14.From Last Updated One To Max One On Price
+            15.Remove Place Holder Image Of Lady For Missing  Item Photos
+            16.Display Pending By Default
+            17.Add View And Disable Check When A User Clicks On manage
+            18.Manage salesmen caption On User Permissions
+            19.Order Details View Display 
+            20.In And Out Of Stock For Products
+            21.Units Refresh Error On Search
+            22.show errors On Specific Field
+
+

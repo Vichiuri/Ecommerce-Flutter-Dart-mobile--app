@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141856256082",
+    "project_id": "bizapp-f9375",
+    "storage_bucket": "bizapp-f9375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141856256082:android:0b38efe744bdf58b016f8b",
+        "android_client_info": {
+          "package_name": "com.netbot.biz_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141856256082-h9e45o1tvllpl8h1c39lc9lk7td8b16u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netbot.biz_mobile_app",
+            "certificate_hash": "aa162b43d0b9fbc864cf1bb59c9c2273370e585a"
+          }
+        },
+        {
+          "client_id": "141856256082-l0rsj9ao95vkhkfri6qop81r663ufdej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqsqY_7uSidvlPKnm4HWtQ8Er_X-7XMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141856256082-l0rsj9ao95vkhkfri6qop81r663ufdej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
