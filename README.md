@@ -1,7 +1,4 @@
-#Netbot App
 
-> This is the mobile Versio of -[Netbot App](https://scm.netbotapp.com/)
-> Link for apk [_here_](https://scm.netbotapp.com/mobile/apk/download)
 
 ## General Information
 
@@ -41,8 +38,6 @@ Provide various use cases and code examples here.
 
 ## Project Status
 
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress.
 
-## Contact
 
-Created by [@netbotgroup](https://netbotgroup.com/) - feel free to contact me!
